@@ -5,7 +5,7 @@
 This program converts an infix arithmetic expression into postfix notation and evaluates the expression.
 
 The program supports:
-- Multi-digit integers
+- Multi digit integers
 - Variables
 - Operators:
   - +
