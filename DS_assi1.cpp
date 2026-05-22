@@ -3,13 +3,11 @@
 #include <vector>
 #include <string>
 using namespace std;
-
 struct Token
 {
     string type;
     string value;
 };
-
 struct Variable
 {
     string name;
